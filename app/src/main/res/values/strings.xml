@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio10_EditText</string>
+    <string name="user">Nombre de usuario:</string>
+    <string name="passw">Ingrese clave:</string>
+    <string name="verif">Verificar</string>
+    <string name="app_name">Ejercicio10_EditText</string>
+</resources>
